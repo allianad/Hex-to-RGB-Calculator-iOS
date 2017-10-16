@@ -37,11 +37,14 @@ namespace HextoRGBiOS
 			int redValue = int.Parse(redHexValue, System.Globalization.NumberStyles.HexNumber);
             int greenValue = int.Parse(greenHexValue, System.Globalization.NumberStyles.HexNumber);
             int blueValue = int.Parse(blueHexValue, System.Globalization.NumberStyles.HexNumber);
-            //Turns the string from above into an integer.
+
 
             redValueLabel.Text = redValue.ToString();
             greenValueLabel.Text = greenValue.ToString();
             blueValueLabel.Text = blueValue.ToString();
+
+            colorView.BackgroundColor = UIColor.FromRGB(redValue, greenValue, blueValue);
+            //Gets the hex values of red, green and blue. Then sets the background color of the colorView to the same hex values.
         }
 
         public override void DidReceiveMemoryWarning()
