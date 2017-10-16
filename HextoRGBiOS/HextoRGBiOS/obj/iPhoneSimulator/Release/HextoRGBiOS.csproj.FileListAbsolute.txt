@@ -1,0 +1,9 @@
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/bin/iPhoneSimulator/Release/HextoRGBiOS.exe
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/bin/iPhoneSimulator/Release/HextoRGBiOS.pdb
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/optimized/
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/HextoRGBiOS.csproj.CoreCompileInputs.cache
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/HextoRGBiOS.exe
+/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/obj/iPhoneSimulator/Release/HextoRGBiOS.pdb
