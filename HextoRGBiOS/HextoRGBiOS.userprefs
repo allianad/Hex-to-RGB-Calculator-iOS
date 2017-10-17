@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{055BD6B8-63EF-42F9-94EA-D74AB5BCA112}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HextoRGBiOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HextoRGBiOS/ViewController.cs">
     <Files>
       <File FileName="HextoRGBiOS/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="HextoRGBiOS/Main.storyboard" />
-      <File FileName="HextoRGBiOS/ViewController.cs" Line="44" Column="56" />
+      <File FileName="HextoRGBiOS/ViewController.cs" Line="50" Column="55" />
       <File FileName="HextoRGBiOS/Main.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/allianad1/Desktop/repos/Hex-to-RGB-Calculator-iOS/HextoRGBiOS/HextoRGBiOS/ViewController.cs" relfile="HextoRGBiOS/ViewController.cs" line="27" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />

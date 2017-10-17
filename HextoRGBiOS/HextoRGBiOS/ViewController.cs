@@ -16,10 +16,10 @@ namespace HextoRGBiOS
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nib.
 
-            convertButton.TouchUpInside += ConvertButton_TouchUpInside;
+            convertButton.TouchUpInside += convertButton_TouchUpInside;
         }
 
-        void ConvertButton_TouchUpInside(object sender, EventArgs e)
+        void convertButton_TouchUpInside(object sender, EventArgs e)
         {
             string hexValue = hexValueTextField.Text;
 			//Gets the hex value from the hex value text vield
@@ -37,11 +37,13 @@ namespace HextoRGBiOS
 			int redValue = int.Parse(redHexValue, System.Globalization.NumberStyles.HexNumber);
             int greenValue = int.Parse(greenHexValue, System.Globalization.NumberStyles.HexNumber);
             int blueValue = int.Parse(blueHexValue, System.Globalization.NumberStyles.HexNumber);
+            //This converts the strings from above into an integer. It also takes the hex value for each color and converts it to the RGB value.
 
 
             redValueLabel.Text = redValue.ToString();
             greenValueLabel.Text = greenValue.ToString();
             blueValueLabel.Text = blueValue.ToString();
+            //Changes the label to its RGB value.
 
             colorView.BackgroundColor = UIColor.FromRGB(redValue, greenValue, blueValue);
             //Gets the hex values of red, green and blue. Then sets the background color of the colorView to the same hex values.
